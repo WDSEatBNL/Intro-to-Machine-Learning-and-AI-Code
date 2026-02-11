@@ -1,10 +1,9 @@
 tensorflow
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-sklearn.model_selection
-sklearn.metrics
+sklearn
 skimage
 os
-Ipython.display
+Ipython
 ipywidgets
