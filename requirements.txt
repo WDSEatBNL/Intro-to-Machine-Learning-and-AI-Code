@@ -2,8 +2,8 @@ tensorflow
 numpy
 matplotlib
 seaborn
-sklearn
-skimage
+scikit-learn
+scikit-image
 os
 Ipython
 ipywidgets
